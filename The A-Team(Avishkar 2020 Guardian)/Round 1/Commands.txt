@@ -1,0 +1,57 @@
+
+
+dronekit-sitl copter --home=25.495007, 81.864489, 0, 90
+
+cd c:/python37/scripts
+
+python mavproxy.py --master tcp:127.0.0.1:5760 --sitl 127.0.0.1:5501 --out 127.0.0.1:14550 --out 127.0.0.1:14551 --out 127.0.0.1:14552
+
+
+cd ~/ardupilot/ArduCopter
+
+../Tools/autotest/sim_vehicle.py -v ArduCopter -f airsim-copter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now executing Problem 1.1 and 1.2, ALREADY DONE.
+
+Now excuting Problem 1.3 using airsim simulator, DONE.

@@ -1,0 +1,23 @@
+cd c:/users/anksi/.dronekit/sitl/copter-3.3
+
+apm.exe --home=25.495018,,81.864086,,0,,90 --model=quad -I 0
+MAVProxy --master tcp:127.0.0.1:5760 --out udp:127.0.0.1:14550 
+
+apm.exe --home=25.495053,,81.864398,,0,,90 --model=quad -I 1
+MAVProxy --master tcp:127.0.0.1:5770 --out udp:127.1.1.1:14551
+
+
+
+apm.exe --home=25.494958,,81.863826,,0,,90 --model=quad -I 0
+MAVProxy --master tcp:127.0.0.1:5760 --out udp:127.0.0.1:14550 
+
+apm.exe --home=25.495006,,81.86462,,0,,90 --model=quad -I 1
+MAVProxy --master tcp:127.0.0.1:5770 --out udp:127.1.1.1:14551
+
+apm.exe --home=25.494898,,81.865199,,0,,90 --model=quad -I 2
+MAVProxy --master tcp:127.0.0.1:5780 --out udp:127.2.2.1:14552
+
+
+Now executing Problem 2.1 and 2.2, DONE.
+
+Now exwcuting Problem 2.3, DONE.
