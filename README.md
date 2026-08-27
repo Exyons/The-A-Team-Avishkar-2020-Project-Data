@@ -65,9 +65,11 @@ A note on flight modes: the scripts cannot always force a mode change through, s
 
 ## Video
 
-Round 1, problems 1.1 and 1.2 plus part of 1.3: https://youtu.be/Xmt8UnFxhJM
+Round 1, problems 1.1 and 1.2 plus part of 1.3: https://youtu.be/xl8mHPBc3Bw
 
-Round 1, problem 1.3: https://youtu.be/xl8mHPBc3Bw
+Round 1, problem 1.3: https://youtu.be/Xmt8UnFxhJM
+
+Round 2: https://youtu.be/2WiYfri0MZE
 
 ## Team
 
