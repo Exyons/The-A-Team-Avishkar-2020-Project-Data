@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Simulation / flight artifacts
+*.tlog
+*.tlog.raw
+*.BIN
+*.bin
+*.log
+logs/
+eeprom.bin
+mav.parm
+terrain/
+.dronekit/
+
+# AirSim
+settings.json
+
+# Office lock files
+~$*.docx
+~$*.doc
+~$*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp

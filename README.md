@@ -72,3 +72,7 @@ Round 1, problem 1.3: https://youtu.be/xl8mHPBc3Bw
 ## Team
 
 The A-Team: Ankur Pratap Singh (20191020)
+
+## License
+
+MIT. See [LICENSE](LICENSE).
